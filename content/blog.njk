@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+eleventyNavigation:
+  key: Updates
+  order: 2
+---
+<h1>Updates</h1>
+
+
+<div class="info-box">
+<em>Watch this space for the latest on our campaign, including press releases, actions, and other updates!</em>
+<br><br><hr><br><br>
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}
+</div>
