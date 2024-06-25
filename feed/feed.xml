@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
 	<title>PENN LIBRARIES UNITED</title>
 	<subtitle>The unionization effort at Penn Libraries</subtitle>
-	<link href="https://example.com/eleventy-base-blog/feed/feed.xml" rel="self"/>
-	<link href="https://example.com/eleventy-base-blog/"/>
+	<link href="https://example.com/feed/feed.xml" rel="self"/>
+	<link href="https://example.com/"/>
 	<updated>2024-06-21T00:00:00Z</updated>
 	<id>https://example.com/</id>
 	<author>
@@ -13,16 +13,16 @@
 	
 	<entry>
 		<title>Penn Libraries United files to unionize!</title>
-		<link href="https://example.com/eleventy-base-blog/blog/secondpost/"/>
+		<link href="https://example.com/blog/secondpost/"/>
 		<updated>2024-06-21T00:00:00Z</updated>
-		<id>https://example.com/eleventy-base-blog/blog/secondpost/</id>
+		<id>https://example.com/blog/secondpost/</id>
 		<content type="html">&lt;p&gt;We are very excited to share that, with support from a supermajority of our colleagues, &lt;strong&gt;we just filed our petition for union representation with the National Labor Relations Board and notified our Director of our intent to unionize.&lt;/strong&gt; This means we are officially “public” with our union campaign!&lt;/p&gt;
 &lt;p&gt;Forming a union will make Penn Libraries stronger. It will empower staff to build a safe, inclusive workplace free from discrimination and harassment. A union of, by, and for the workers of Penn Libraries will help reduce turnover, improve job satisfaction, and give voice to underrepresented workers in organizational decision-making, strengthening the Libraries in profound ways.&lt;/p&gt;
 &lt;p&gt;A supermajority of professional staff have signed union authorization cards, meaning we can finally win a union that represents ALL union-eligible staff at the Libraries. The issues that have been shared throughout the campaign unify all Libraries staff and together we will finally have the strength to enact real change.&lt;/p&gt;
 &lt;p&gt;We are looking forward to joining our already unionized colleagues in AFSCME DC47 Local 590. We would not have reached this point without their support, the guidance of other unionized (and unionizing) academic library workers, and the efforts of everyone who has signed on to support the union.&lt;/p&gt;
-&lt;h2 id=&quot;what-happens-next&quot; tabindex=&quot;-1&quot;&gt;What happens next? &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/eleventy-base-blog/blog/secondpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;what-happens-next&quot; tabindex=&quot;-1&quot;&gt;What happens next? &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/secondpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;This morning, we notified Penn of our intent to unionize and requested voluntary recognition of our union. Voluntary recognition means that Penn respects our authorization cards filed with the NLRB as evidence we want to unionize, instead of requiring an election. If Penn voluntarily recognizes us, that means we can move more quickly into contract negotiations. If they don’t, we will proceed to an election where we will vote to unionize and then proceed to negotiations.&lt;/p&gt;
-&lt;h2 id=&quot;what-can-you-do&quot; tabindex=&quot;-1&quot;&gt;What can you do? &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/eleventy-base-blog/blog/secondpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;what-can-you-do&quot; tabindex=&quot;-1&quot;&gt;What can you do? &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/secondpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Follow and share our social media posts! Please tell your friends and family to follow us. The more people see our effort, the more power we have!&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/pennlibunited&quot;&gt;@pennlibunited&lt;/a&gt;&lt;/li&gt;
@@ -34,9 +34,9 @@
 	
 	<entry>
 		<title>Press release</title>
-		<link href="https://example.com/eleventy-base-blog/blog/firstpost/"/>
+		<link href="https://example.com/blog/firstpost/"/>
 		<updated>2024-06-21T00:00:00Z</updated>
-		<id>https://example.com/eleventy-base-blog/blog/firstpost/</id>
+		<id>https://example.com/blog/firstpost/</id>
 		<content type="html">&lt;p&gt;On June 21, 2024, librarians, curators, developers, and other staff at the Penn Libraries delivered a letter to the Vice Provost/Director of the Penn Libraries announcing that they are unionizing as Penn Libraries United (PLU). The letter informed the Director that a supermajority of eligible library staff have signed union representation cards. The group intends to join the same union local as their colleagues in the Penn Libraries support staff, who have been unionized since 1969 as AFSCME District Council 47 Local 590.&lt;/p&gt;
 &lt;p&gt;Structural issues motivating the unionization effort are longstanding. PLU members cite unclear promotion procedures, inequitable raises, lack of transparency in decision-making, and an overreliance on term-limited positions as motivators for employees organizing.&lt;/p&gt;
 &lt;p&gt;Heather Hughes, a Penn librarian and member of PLU, adds: “Since I’ve started at the Libraries, I’ve seen a lot of colleagues leave. I want the Libraries to be a place where workers feel empowered and people feel like they can stay and grow.”&lt;/p&gt;
