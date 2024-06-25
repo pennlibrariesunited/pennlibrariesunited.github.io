@@ -15,7 +15,7 @@
 		"url": "git://github.com/11ty/eleventy-base-blog.git"
 	},
 	"author": {
-		"name": "Cassandra Hradil",
+		"name": "Cassandra Hradil"
 	},
 	"license": "MIT",
 	"engines": {
