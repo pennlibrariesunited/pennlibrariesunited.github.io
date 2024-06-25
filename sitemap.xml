@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://example.com/about/</loc>
-		<lastmod>2024-06-17</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/blog/</loc>
-		<lastmod>2024-06-17</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/</loc>
-		<lastmod>2024-06-17</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/tags/</loc>
-		<lastmod>2024-06-17</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/tags/press-release/</loc>
-		<lastmod>2024-06-17</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/tags/updates/</loc>
-		<lastmod>2024-06-17</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/tags/filing/</loc>
-		<lastmod>2024-06-17</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/resources/</loc>
-		<lastmod>2024-06-20</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/blog/firstpost/</loc>
+		<loc>https://example.com/eleventy-base-blog/blog/firstpost/</loc>
 		<lastmod>2024-06-21</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/blog/secondpost/</loc>
+		<loc>https://example.com/eleventy-base-blog/blog/secondpost/</loc>
 		<lastmod>2024-06-21</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/eleventy-base-blog/about/</loc>
+		<lastmod>2024-06-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/eleventy-base-blog/blog/</loc>
+		<lastmod>2024-06-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/eleventy-base-blog/</loc>
+		<lastmod>2024-06-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/eleventy-base-blog/resources/</loc>
+		<lastmod>2024-06-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/eleventy-base-blog/tags/</loc>
+		<lastmod>2024-06-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/eleventy-base-blog/tags/press-release/</loc>
+		<lastmod>2024-06-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/eleventy-base-blog/tags/updates/</loc>
+		<lastmod>2024-06-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/eleventy-base-blog/tags/filing/</loc>
+		<lastmod>2024-06-25</lastmod>
 	</url>
 </urlset>
