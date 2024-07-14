@@ -11,6 +11,22 @@
 	},
 	"items": [
 		{
+			"id": "https://example.com/blog/fourthpost/",
+			"url": "https://example.com/blog/fourthpost/",
+			"title": "KYW Newsradio - Librarians, curators, developers, IT staff, others who work for University of Pennsylvania libraries file to unionize",
+			"content_html": "<p>KYW Newsradio covered our filing to unionize! Check out the full piece by Nina Baratti <a href=\"https://www.audacy.com/kywnewsradio/news/local/more-than-100-penn-library-workers-file-to-unionize\">here</a>.</p>\n",
+			"date_published": "2024-06-25T00:00:00Z"
+		}
+		,
+		{
+			"id": "https://example.com/blog/thirdpost/",
+			"url": "https://example.com/blog/thirdpost/",
+			"title": "Daily Penn - Penn Libraries staff file petition to unionize with National Labor Relations Board",
+			"content_html": "<p>The Daily Pennsylvanian covered our filing to unionize! Check out the full article by Ethan Young <a href=\"https://www.thedp.com/article/2024/06/penn-libraries-staff-file-unionization-cards\">here</a>.</p>\n",
+			"date_published": "2024-06-23T00:00:00Z"
+		}
+		,
+		{
 			"id": "https://example.com/blog/secondpost/",
 			"url": "https://example.com/blog/secondpost/",
 			"title": "Penn Libraries United files to unionize!",
