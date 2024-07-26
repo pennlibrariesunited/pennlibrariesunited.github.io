@@ -4,12 +4,21 @@
 	<subtitle>The unionization effort at Penn Libraries</subtitle>
 	<link href="https://example.com/feed/feed.xml" rel="self"/>
 	<link href="https://example.com/"/>
-	<updated>2024-06-25T00:00:00Z</updated>
+	<updated>2024-07-17T00:00:00Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Penn Libraries United</name>
 		<email>pennlibrariesunited@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Daily Penn - Penn Libraries United reaches agreement with Penn, sets date for unionization election</title>
+		<link href="https://example.com/blog/fifthpost/"/>
+		<updated>2024-07-17T00:00:00Z</updated>
+		<id>https://example.com/blog/fifthpost/</id>
+		<content type="html">&lt;p&gt;The Daily Pennsylvanian wrote a post-filing update on our upcoming union election! Check out the full piece by Fiona Herzog &lt;a href=&quot;https://www.thedp.com/article/2024/07/penn-libraries-negotiate-union-agreement-election&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>KYW Newsradio - Librarians, curators, developers, IT staff, others who work for University of Pennsylvania libraries file to unionize</title>
