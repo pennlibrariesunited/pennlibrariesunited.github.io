@@ -62,17 +62,17 @@
 	</url>
 	
 	<url>
-		<loc>https://example.com/tags/filing/</loc>
-		<lastmod>2024-07-26</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://example.com/tags/press-release/</loc>
 		<lastmod>2024-07-26</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/tags/updates/</loc>
+		<lastmod>2024-07-26</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/tags/filing/</loc>
 		<lastmod>2024-07-26</lastmod>
 	</url>
 </urlset>
