@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-eleventyExcludeFromCollections: true
+title: Reading 590's Pay Increases
 ---
 # Reading 590’s Pay Increases
 

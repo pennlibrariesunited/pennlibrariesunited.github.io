@@ -47,6 +47,16 @@
 	</url>
 	
 	<url>
+		<loc>https://example.com/tags/election/</loc>
+		<lastmod>2024-06-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/tags/press/</loc>
+		<lastmod>2024-06-25</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://example.com/tags/press-release/</loc>
 		<lastmod>2024-06-25</lastmod>
 	</url>
@@ -62,17 +72,27 @@
 	</url>
 	
 	<url>
-		<loc>https://example.com/tags/press/</loc>
-		<lastmod>2024-06-25</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/tags/election/</loc>
+		<loc>https://example.com/tags/resources/</loc>
 		<lastmod>2024-06-25</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/blog/fifthpost/</loc>
 		<lastmod>2024-07-17</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/resources/raises/</loc>
+		<lastmod>2024-07-26</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/resources/status-quo/</loc>
+		<lastmod>2024-08-02</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/resources/finances/</loc>
+		<lastmod>2024-08-03</lastmod>
 	</url>
 </urlset>

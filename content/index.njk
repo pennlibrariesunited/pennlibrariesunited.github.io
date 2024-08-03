@@ -16,18 +16,21 @@ numberOfLatestPostsToShow: 3
 </article>
 </div>
 <div class='home-info'>
-{% set postsCount = collections.posts | length %}
+{% set postsCount = collections.respirces | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Recent Updates</h1>
+<h1>Resources</h1>
 
-{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
-{% set postslistCounter = postsCount %}
-{% include "postslist.njk" %}
+{% set postslist = collections.resources %}
 
-{% set morePosts = postsCount - numberOfLatestPostsToShow %}
-{% if morePosts > 0 %}
-<p>{{ morePosts }} more update{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">our blog</a>.</p>
-{% endif %}
+{%- css %}.postlist { counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }} }{% endcss %}
+<ol reversed class="postlist">
+{% for post in postslist | reverse %}
+{% if post.url == url %} postlist-item-active{% endif %}
+		<a class="resource" href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+
+	<br><br>
+{% endfor %}
+
 
 {# List every content page in the project #}
 {#
