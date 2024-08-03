@@ -28,51 +28,71 @@
 	
 	<url>
 		<loc>https://example.com/about/</loc>
-		<lastmod>2024-07-26</lastmod>
+		<lastmod>2024-08-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/blog/</loc>
-		<lastmod>2024-07-26</lastmod>
+		<lastmod>2024-08-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/</loc>
-		<lastmod>2024-07-26</lastmod>
+		<lastmod>2024-08-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/resources/</loc>
-		<lastmod>2024-07-26</lastmod>
+		<lastmod>2024-08-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/resources/finances/</loc>
+		<lastmod>2024-08-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/resources/raises/</loc>
+		<lastmod>2024-08-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/resources/status-quo/</loc>
+		<lastmod>2024-08-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/tags/</loc>
-		<lastmod>2024-07-26</lastmod>
+		<lastmod>2024-08-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/tags/election/</loc>
-		<lastmod>2024-07-26</lastmod>
+		<lastmod>2024-08-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/tags/press/</loc>
-		<lastmod>2024-07-26</lastmod>
+		<lastmod>2024-08-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/tags/press-release/</loc>
-		<lastmod>2024-07-26</lastmod>
+		<lastmod>2024-08-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/tags/updates/</loc>
-		<lastmod>2024-07-26</lastmod>
+		<lastmod>2024-08-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/tags/filing/</loc>
-		<lastmod>2024-07-26</lastmod>
+		<lastmod>2024-08-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/tags/resources/</loc>
+		<lastmod>2024-08-03</lastmod>
 	</url>
 </urlset>
